@@ -1,4 +1,5 @@
 
+
 document.getElementById("pocetna").onclick = function() {otvoriPocetnu()};
 document.getElementById("galerija").onclick = function() {otvoriGaleriju()};
 document.getElementById("rezervacije").onclick = function() {otvoriRezervacije()};
@@ -9,10 +10,10 @@ function otvoriPocetnu() {
   location.replace("index.html")
 }
 function otvoriGaleriju() {
-  location.replace("/docs/galerija.html")
+  location.replace("docs/galerija.html")
 }
 function otvoriRezervacije() {
-  location.replace("/docs/rezervacije.html")
+  location.replace("docs/rezervacije.html")
 }
 function otvoriKontakt() {
   location.replace("docs/kontakt.html")
