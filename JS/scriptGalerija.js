@@ -20,3 +20,4 @@ function otvoriKontakt() {
 function otvoriBlog() {
   location.replace("blog.html")
 }
+
