@@ -1,4 +1,5 @@
 
+
 var map = new ol.Map({
   target: 'map',
   layers: [
@@ -94,3 +95,4 @@ var overlay3 = new ol.Overlay({
       closer.blur();
   }
 });
+
