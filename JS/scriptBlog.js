@@ -5,7 +5,7 @@ document.getElementById("blog").onclick = function() {otvoriBlog()};
 document.getElementById("kontakt").onclick = function() {otvoriKontakt()};
 
 function otvoriPocetnu() {
-  location.replace("index.html")
+  location.replace("../index.html")
 }
 function otvoriGaleriju() {
   location.replace("galerija.html")
