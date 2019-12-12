@@ -9,16 +9,16 @@ function otvoriPocetnu() {
   location.replace("index.html")
 }
 function otvoriGaleriju() {
-  location.replace("galerija.html")
+  location.replace("/docs/galerija.html")
 }
 function otvoriRezervacije() {
-  location.replace("rezervacije.html")
+  location.replace("/docs/rezervacije.html")
 }
 function otvoriKontakt() {
-  location.replace("kontakt.html")
+  location.replace("docs/kontakt.html")
 }
 function otvoriBlog() {
-  location.replace("blog.html")
+  location.replace("docs/blog.html")
 }
 
 var brSlajda = 0;
